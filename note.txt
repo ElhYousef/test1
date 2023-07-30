@@ -1,1 +1,3 @@
-salam
+salam --version2
+
+khoobi --version3
